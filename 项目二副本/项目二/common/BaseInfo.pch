@@ -1,0 +1,20 @@
+//
+//  BaseInfo.pch
+//  项目二
+//
+//  Created by _CXwL on 16/5/30.
+//  Copyright © 2016年 _CXwL. All rights reserved.
+//
+
+#ifndef BaseInfo_pch
+#define BaseInfo_pch
+
+#import "Common.h"
+#import "UIViewExt.h"
+#import "APPUrl.h"
+#import "iToast.h"
+#import "AFNetworking.h"
+#import "CXDataService.h"
+#import "ManageInfoModel.h"
+
+#endif /* BaseInfo_pch */
