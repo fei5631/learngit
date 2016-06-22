@@ -68,6 +68,7 @@
 
     }
     
+    NSLog(@"yayay");
     
     return YES;
 }
